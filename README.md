@@ -118,3 +118,10 @@ This is a template for the README to copy:
 **Author:** [Sergey Karayev](https://gist.github.com/sergeyk) <br />
 **Reference:** [Recognizing Image Style](http://sergeykarayev.com/files/1311.3715v3.pdf) <br />
 **Example:** [StylesVisionDemo](https://github.com/cocoa-ai/StylesVisionDemo) <br />
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
